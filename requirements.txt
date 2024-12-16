@@ -1,0 +1,2 @@
+pymelsec==0.2.5
+pytango==9.3.6
